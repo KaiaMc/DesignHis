@@ -1,0 +1,453 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.one::before{
+    content: '  ';
+    position: absolute;
+    margin-right: 80em;
+    margin-top: 70%;
+    padding-top: 9em;
+    height: 22400px;
+    width: 10px;
+    background-color: black;
+}
+
+.one{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header{
+    font-size: 5em;
+    position: absolute;
+    margin-right: 11.5em;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+}
+
+#ars{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 2%;
+    margin-right: 20em;
+    padding-bottom: 50px;
+    font-size: 1.5em;
+    max-width: 90vw;
+    width: 50%;
+}
+.two{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+}
+.three{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    background-image: url(tumblr_megodbpyvC1r0ab53o1_640.webp);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: 35em;
+    background-position-y: 15em;
+}
+.year{
+    font-size: 6em;
+    margin-bottom: 1em;
+    padding-bottom: 2%;
+    position: relative;
+    padding-left: 2%;
+}
+h2{
+    font-size: 3em;
+    position: absolute;
+    margin-top: 2em;
+    padding-top: 40px;
+    align-self: auto;
+    margin-left: 2%;
+}
+#secthree{
+    font-size: 1.5em;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 2%;
+    max-width: 30%;
+}
+.threeandahalf{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#header-two{
+    font-size: 5em;
+    position: absolute;
+    margin-right: 11.5em;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    margin-top: 5em;
+}
+.photo{
+    margin: 0;
+    padding:0;
+    position: absolute;
+    position: bottom, left;
+}
+.photo2{
+    position: absolute;  
+    padding-top: 4em;
+    max-width: 100%;
+    height: auto;
+    margin-left: 50em;
+    margin-bottom: 10em;
+}
+.photo8{
+    position: absolute;  
+    padding-top: 2em;
+    max-width: 200%;
+    margin-left: 57em;
+    margin-top: 10em
+}
+img{
+    max-width: 25em;
+    transform: translateY(11em);
+}
+h3{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 2%;
+    margin-right: 20em;
+    padding-bottom: 50px;
+    font-size: 1.5em;
+    max-width: 90vw;
+    width: 50%;
+}
+.four{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+}
+.five{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#header-three{
+    font-size: 3em;
+    position: absolute;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 4em;
+    padding-bottom: 5em;
+}
+#first{
+    position: absolute;
+    max-width: 70%;
+    margin-top: 15em;
+    font-size: 1.5em;
+    padding-bottom: 10em;
+    margin-left: -3.5em;
+    padding-left: 3.5em;
+}
+#second{
+    position: absolute;
+    max-width: 70%;
+    margin-top: 30em;
+    font-size: 1.5em;
+    padding-bottom: 10em;
+    margin-left: -3.5em;
+    padding-left: 3.5em;
+}
+#third{
+    max-width: 70%;
+    margin-top: 45em;
+    font-size: 1.5em;
+    padding-bottom: 10em;
+    margin-left: -3.5em;
+    padding-left: 3.5em;
+}
+.six{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+}
+.seven{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    background-image: url(660908-0-medium.webp);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position-x: 48em;
+    background-position-y: 15em;
+}
+.photo{
+    position: relative;  
+    padding-top: 8em;
+    max-width: 100%;
+    height: auto;
+    background-image: url(preview_00566156_001.webp);
+    background-size: 45%;
+    background-repeat: no-repeat;
+}
+#year-seven{
+    font-size: 6em;
+    margin-bottom: 1em;
+    padding-bottom: 2%;
+    position: relative;
+    padding-left: 2%;
+}
+#h2-seven{
+    font-size: 3em;
+    position: absolute;
+    margin-top: 2em;
+    padding-top: 40px;
+    align-self: auto;
+    margin-left: 2%;
+}
+#p-seven{
+    font-size: 1.5em;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 2%;
+    max-width: 45%;
+}
+.eight{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+}
+#header-four{
+    font-size: 5em;
+    position: absolute;
+    margin-right: 11.5em;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    margin-top: 5em;
+}   
+#oldbuck{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 2%;
+    margin-right: 20em;
+    padding-bottom: 50px;
+    font-size: 1.5em;
+    max-width: 90vw;
+    width: 50%;
+}
+.nine{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#header-five{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    margin-top: 40%;
+}
+#header-six{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    margin-top: 40%;
+}
+.ten{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+#year-eight{
+    font-size: 6em;
+    margin-bottom: 1em;
+    margin-top: 3em;
+    padding-bottom: 2%;
+    position: relative;
+    padding-left: 2%;
+}
+#h2-eight{
+    font-size: 3em;
+    position: absolute;
+    margin-top: 8em;
+    padding-top: 40px;
+    align-self: auto;
+    margin-left: 2%;
+}
+#p-eight{
+    font-size: 1.5em;
+    position: absolute;
+    margin-top: 22em;
+    margin-left: 2%;
+    max-width: 45%;
+}
+.eleven{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+}
+#header-eleven{
+    font-size: 5em;
+    position: absolute;
+    margin-right: 11.5em;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    margin-top: 5em;
+}
+#yellow{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 2%;
+    margin-right: 20em;
+    padding-bottom: 50px;
+    font-size: 1.5em;
+    max-width: 90vw;
+    width: 50%;
+}
+.countries-intro{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#countries-one{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    margin-top: 40%;
+}
+#countries-two{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    margin-top: 40%;
+}
+.countries-home{
+    height: 100vh;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#which{
+    font-size: 3em;
+    position: relative;
+    margin-bottom: 7em;
+    margin-left: 2%;
+}
+#countries-list{
+    display: inline-grid;
+    grid-template-columns: repeat(2, [col-start] 1fr);
+    grid-gap: 3em;
+    list-style-type: none;
+    font-size: 3em;
+    position: absolute;
+    margin-top: 6em;
+    border: 4px black solid;
+    padding: 40px;
+    cursor: pointer;
+}
+#one:hover, #two:hover, #three:hover, #four:hover {
+    background-color: rgba(169, 169, 169, 0.315);
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
