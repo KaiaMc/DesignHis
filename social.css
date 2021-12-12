@@ -126,12 +126,47 @@ h2{
     margin-left: 50em;
     margin-bottom: 10em;
 }
+.photo3{
+    position: absolute;  
+    padding-top: 4em;
+    max-width: 100%;
+    height: auto;
+    margin-left: 50em;
+}
+.photo4{
+    position: absolute;  
+    max-width: 100%;
+    height: auto;
+    margin-left: 65em;
+    margin-bottom: 3em;
+}
+.photo5{
+    position: absolute;  
+    max-width: 50%;
+    height: auto;
+    margin-left: 60em;
+    margin-top: 50em;
+}
+.photo6{
+    position: absolute;  
+    max-width: 50%;
+    height: auto;
+    margin-left: 60em;
+    margin-top: 15em;
+}
 .photo8{
     position: absolute;  
     padding-top: 2em;
     max-width: 200%;
     margin-left: 57em;
     margin-top: 10em
+}
+.photo9{
+    position: absolute;  
+    max-width: 50%;
+    height: auto;
+    margin-left: 60em;
+    margin-top: 20em;
 }
 img{
     max-width: 25em;
@@ -178,28 +213,29 @@ h3{
 }
 #first{
     position: absolute;
-    max-width: 70%;
+    max-width: 60%;
     margin-top: 15em;
     font-size: 1.5em;
     padding-bottom: 10em;
-    margin-left: -3.5em;
+    margin-right: 17em;
     padding-left: 3.5em;
 }
 #second{
     position: absolute;
-    max-width: 70%;
+    max-width: 60%;
     margin-top: 30em;
     font-size: 1.5em;
     padding-bottom: 10em;
-    margin-left: -3.5em;
+    margin-right: 17em;
     padding-left: 3.5em;
 }
 #third{
-    max-width: 70%;
+    position: absolute;
+    max-width: 60%;
     margin-top: 45em;
     font-size: 1.5em;
     padding-bottom: 10em;
-    margin-left: -3.5em;
+    margin-right: 17em;
     padding-left: 3.5em;
 }
 .six{
